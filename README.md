@@ -1,4 +1,4 @@
-# BostonHousingDatasetLinearRegression
+# Boston Housing Dataset Linear Regression
 Implementation of linear regression using direct solution and gradient descent with the Boston housing dataset.
 We will first attempt to predict output using a single attribute/feature. Then we will perform linear regression using multiple attributes/features.
 
